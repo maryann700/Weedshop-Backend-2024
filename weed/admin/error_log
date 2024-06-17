@@ -1,0 +1,361 @@
+[24-Jul-2017 07:24:41 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:24:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 5
+[24-Jul-2017 07:24:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:24:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 5
+[24-Jul-2017 07:25:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:25:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 5
+[24-Jul-2017 07:29:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:29:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 5
+[24-Jul-2017 07:30:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:30:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 5
+[24-Jul-2017 07:32:49 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:32:49 UTC] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/gldemoserver/public_html/weed/admin/logout.php on line 5
+[24-Jul-2017 07:32:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 6
+[24-Jul-2017 07:32:56 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:32:56 UTC] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/gldemoserver/public_html/weed/admin/logout.php on line 5
+[24-Jul-2017 07:32:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 6
+[24-Jul-2017 07:33:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:33:36 UTC] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/gldemoserver/public_html/weed/admin/logout.php on line 5
+[24-Jul-2017 07:33:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 6
+[24-Jul-2017 07:33:46 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:33:46 UTC] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/gldemoserver/public_html/weed/admin/logout.php on line 5
+[24-Jul-2017 07:33:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 6
+[24-Jul-2017 07:34:26 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:34:35 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:36:10 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:36:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 5
+[24-Jul-2017 07:36:11 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:36:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 5
+[24-Jul-2017 07:36:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:36:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 5
+[24-Jul-2017 07:37:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:37:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 5
+[24-Jul-2017 07:37:28 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:37:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 5
+[24-Jul-2017 07:37:30 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:37:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 5
+[24-Jul-2017 07:37:53 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:37:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 5
+[24-Jul-2017 07:37:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:37:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 5
+[24-Jul-2017 07:37:57 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:37:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 5
+[24-Jul-2017 07:37:58 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:37:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 5
+[24-Jul-2017 07:37:59 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:37:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 5
+[24-Jul-2017 07:38:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:38:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 5
+[24-Jul-2017 07:39:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:39:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 5
+[24-Jul-2017 07:39:23 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:39:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 4
+[24-Jul-2017 07:39:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:39:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 4
+[24-Jul-2017 07:39:37 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:39:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 4
+[24-Jul-2017 07:39:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:39:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 4
+[24-Jul-2017 07:39:56 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:39:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 4
+[24-Jul-2017 07:40:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:40:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 4
+[24-Jul-2017 07:40:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 3
+[24-Jul-2017 07:40:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 5
+[24-Jul-2017 07:40:46 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 3
+[24-Jul-2017 07:40:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 5
+[24-Jul-2017 07:40:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 3
+[24-Jul-2017 07:40:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 5
+[24-Jul-2017 07:40:57 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 3
+[24-Jul-2017 07:40:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 5
+[24-Jul-2017 07:43:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:43:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 4
+[24-Jul-2017 07:44:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:44:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 4
+[24-Jul-2017 07:44:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:44:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 3
+[24-Jul-2017 07:44:43 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 2
+[24-Jul-2017 07:44:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/admin/logout.php:1) in /home/gldemoserver/public_html/weed/admin/logout.php on line 3
+[17-Jan-2018 08:08:32 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/high5delivery/public_html/weed/admin/drivers.php on line 198
+[18-Jan-2018 00:35:48 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:50 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:51 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:51 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:51 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:51 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:52 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:52 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:52 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:52 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:52 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:52 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:53 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:53 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:53 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:53 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:53 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:53 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:54 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:54 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:54 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:54 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:54 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:55 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:55 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:56 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:56 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:56 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:56 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:56 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:57 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[18-Jan-2018 00:35:57 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.users' doesn't exist query: DELETE FROM users WHERE  id = ? ' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(801): MysqliDb->_buildQuery(NULL)
+#2 /home/high5delivery/public_html/weed/admin/delete-row.php(15): MysqliDb->delete('users')
+#3 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[23-Jan-2018 05:46:13 America/Los_Angeles] PHP Warning:  include(function/app_version.php): failed to open stream: No such file or directory in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 05:46:13 America/Los_Angeles] PHP Warning:  include(): Failed opening 'function/app_version.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 05:47:48 America/Los_Angeles] PHP Warning:  include(function/app_version.php): failed to open stream: No such file or directory in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 05:47:48 America/Los_Angeles] PHP Warning:  include(): Failed opening 'function/app_version.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 05:47:59 America/Los_Angeles] PHP Warning:  include(function/app_version.php): failed to open stream: No such file or directory in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 05:47:59 America/Los_Angeles] PHP Warning:  include(): Failed opening 'function/app_version.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 05:50:20 America/Los_Angeles] PHP Warning:  include(function/app_version.php): failed to open stream: No such file or directory in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 05:50:20 America/Los_Angeles] PHP Warning:  include(): Failed opening 'function/app_version.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 05:50:29 America/Los_Angeles] PHP Warning:  include(function/app_version.php): failed to open stream: No such file or directory in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 05:50:29 America/Los_Angeles] PHP Warning:  include(): Failed opening 'function/app_version.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 05:50:33 America/Los_Angeles] PHP Warning:  include(function/app_version.php): failed to open stream: No such file or directory in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 05:50:33 America/Los_Angeles] PHP Warning:  include(): Failed opening 'function/app_version.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 05:50:33 America/Los_Angeles] PHP Warning:  include(function/app_version.php): failed to open stream: No such file or directory in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 05:50:33 America/Los_Angeles] PHP Warning:  include(): Failed opening 'function/app_version.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 05:54:05 America/Los_Angeles] PHP Warning:  include(function/app_version.php): failed to open stream: No such file or directory in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 05:54:05 America/Los_Angeles] PHP Warning:  include(): Failed opening 'function/app_version.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 05:54:17 America/Los_Angeles] PHP Warning:  include(function/app_version.php): failed to open stream: No such file or directory in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 05:54:17 America/Los_Angeles] PHP Warning:  include(): Failed opening 'function/app_version.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 05:55:18 America/Los_Angeles] PHP Warning:  include(function/app_version.php): failed to open stream: No such file or directory in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 05:55:18 America/Los_Angeles] PHP Warning:  include(): Failed opening 'function/app_version.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 05:55:47 America/Los_Angeles] PHP Warning:  include(function/app_version.php): failed to open stream: No such file or directory in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 05:55:47 America/Los_Angeles] PHP Warning:  include(): Failed opening 'function/app_version.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 05:55:49 America/Los_Angeles] PHP Warning:  include(function/app_version.php): failed to open stream: No such file or directory in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 05:55:49 America/Los_Angeles] PHP Warning:  include(): Failed opening 'function/app_version.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 05:55:56 America/Los_Angeles] PHP Warning:  include(function/app_version.php): failed to open stream: No such file or directory in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 05:55:56 America/Los_Angeles] PHP Warning:  include(): Failed opening 'function/app_version.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 05:56:51 America/Los_Angeles] PHP Warning:  include(function/app_version.php): failed to open stream: No such file or directory in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 05:56:51 America/Los_Angeles] PHP Warning:  include(): Failed opening 'function/app_version.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 05:58:53 America/Los_Angeles] PHP Warning:  include(function/app_version.php): failed to open stream: No such file or directory in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 05:58:53 America/Los_Angeles] PHP Warning:  include(): Failed opening 'function/app_version.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 06:00:13 America/Los_Angeles] PHP Warning:  include(function/app_version.php): failed to open stream: No such file or directory in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 06:00:13 America/Los_Angeles] PHP Warning:  include(): Failed opening 'function/app_version.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 06:00:49 America/Los_Angeles] PHP Warning:  include(function/app_version.php): failed to open stream: No such file or directory in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 06:00:49 America/Los_Angeles] PHP Warning:  include(): Failed opening 'function/app_version.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 06:00:56 America/Los_Angeles] PHP Warning:  include(function/app_version.php): failed to open stream: No such file or directory in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 06:00:56 America/Los_Angeles] PHP Warning:  include(): Failed opening 'function/app_version.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 06:01:05 America/Los_Angeles] PHP Warning:  include(function/app_version.php): failed to open stream: No such file or directory in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 06:01:05 America/Los_Angeles] PHP Warning:  include(): Failed opening 'function/app_version.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 06:04:12 America/Los_Angeles] PHP Warning:  include(function/app_version.php): failed to open stream: No such file or directory in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 06:04:12 America/Los_Angeles] PHP Warning:  include(): Failed opening 'function/app_version.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/high5delivery/public_html/weed/admin/app_version.php on line 7
+[23-Jan-2018 06:31:39 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/high5delivery/public_html/weed/admin/function/app_version.php on line 47
+[23-Jan-2018 06:33:08 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/high5delivery/public_html/weed/admin/function/app_version.php on line 47
+[23-Jan-2018 06:33:12 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/high5delivery/public_html/weed/admin/function/app_version.php on line 76
+[23-Jan-2018 06:33:33 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/high5delivery/public_html/weed/admin/function/app_version.php on line 76
+[23-Jan-2018 06:33:37 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/high5delivery/public_html/weed/admin/function/app_version.php on line 76
+[23-Jan-2018 06:33:56 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/high5delivery/public_html/weed/admin/function/app_version.php on line 88
+[23-Jan-2018 06:34:16 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/high5delivery/public_html/weed/admin/function/app_version.php on line 88
+[23-Jan-2018 06:34:20 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/high5delivery/public_html/weed/admin/function/app_version.php on line 88
+[23-Jan-2018 06:36:05 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/high5delivery/public_html/weed/admin/function/app_version.php on line 88
+[23-Jan-2018 06:36:16 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/high5delivery/public_html/weed/admin/function/app_version.php on line 88
+[23-Jan-2018 06:36:20 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/high5delivery/public_html/weed/admin/function/app_version.php on line 66
+[23-Jan-2018 06:37:29 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/high5delivery/public_html/weed/admin/function/app_version.php on line 66
+[23-Jan-2018 06:52:18 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/high5delivery/public_html/weed/admin/function/app_version.php on line 44
+[23-Jan-2018 08:00:49 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/high5delivery/public_html/weed/admin/function/app_version.php on line 11
+[23-Jan-2018 08:01:31 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/high5delivery/public_html/weed/admin/function/app_version.php on line 11
+[27-Sep-2018 05:59:06 America/Los_Angeles] PHP Warning:  session_start(): open(/tmp/sess_175f1b48933e1858785b2250a4ce8620, O_RDWR) failed: No space left on device (28) in /home/high5delivery/public_html/weed/system/config.inc.php on line 4
+[27-Sep-2018 05:59:07 America/Los_Angeles] PHP Warning:  Unknown: open(/tmp/sess_175f1b48933e1858785b2250a4ce8620, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[27-Sep-2018 05:59:07 America/Los_Angeles] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0

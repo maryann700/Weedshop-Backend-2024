@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js" type="text/javascript"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular-route.js" type="text/javascript"></script>
+        <script src="https://cdn.rawgit.com/zenorocha/clipboard.js/master/dist/clipboard.min.js" type="text/javascript"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.5/angular-cookies.js" type="text/javascript"></script>
+    </head>
+
+    <body>
+
+    <body ng-app="myApp">
+
+        <div ng-view></div>
+
+        <script>
+                    var app = angular.module("myApp", ["ngRoute", "ngCookies"]);
+                    app.config(function ($routeProvider) {
+                        $routeProvider
+                                .when("/cart/:cartID", {
+                                    templateUrl: "cart.html",
+                                    controller: 'cart',
+                                })
+                                .when("/product_detail/:ProdID/:userID/:storeID", {
+                                    templateUrl: "product_detail.html",
+                                    controller: 'product_detail',
+                                });
+                    });
+
+                    app.controller('product_detail', function ($scope, $rootScope, $timeout, $routeParams) {
+                                var vm = this,
+                                ProdId = ($routeParams.ProdID) ? parseInt($routeParams.ProdID) : 0;
+                               
+                                var path = "/product_detail/" + ($routeParams.ProdID || "") + "/" + ($routeParams.userID || "") + "/" + ($routeParams.storeID || "");
+                                var product_id = $routeParams.ProdID;
+                                var user_id = $routeParams.userID;
+                                var store_id = $routeParams.storeID;
+                    });
+                    
+                    app.controller('cart', function ($scope, $rootScope, $timeout, $routeParams) {
+                                var vm = this,
+                                cartID = ($routeParams.cartID) ? parseInt($routeParams.cartID) : 0;
+                               
+                                var path = "/cart/" + ($routeParams.ProdID);
+                                var cart_id = $routeParams.cartID;
+                    });
+
+
+
+        </script>
+    </body>
+</html>

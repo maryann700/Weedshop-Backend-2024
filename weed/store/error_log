@@ -1,0 +1,22 @@
+[24-Jul-2017 08:23:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/gldemoserver/public_html/weed/store/logout.php:1) in /home/gldemoserver/public_html/weed/store/logout.php on line 2
+[24-Jul-2017 08:23:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gldemoserver/public_html/weed/store/logout.php:1) in /home/gldemoserver/public_html/weed/store/logout.php on line 5
+[01-Nov-2017 10:43:04 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.store' doesn't exist query: SELECT  1 FROM store WHERE  email = ?  AND password = ?  LIMIT 1' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(600): MysqliDb->_buildQuery(1)
+#2 /home/high5delivery/public_html/weed/system/MysqliDb.php(625): MysqliDb->get('store', 1, '1')
+#3 /home/high5delivery/public_html/weed/system/MysqliDb.php(747): MysqliDb->getOne('store', '1')
+#4 /home/high5delivery/public_html/weed/store/function/login.php(16): MysqliDb->has('store')
+#5 /home/high5delivery/public_html/weed/store/login.php(4): include('/home/high5deli...')
+#6 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
+[21-Nov-2017 02:51:50 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'Exception' with message 'Table 'high5del_weed.store' doesn't exist query: SELECT  1 FROM store WHERE  email = ?  AND password = ?  LIMIT 1' in /home/high5delivery/public_html/weed/system/MysqliDb.php:1819
+Stack trace:
+#0 /home/high5delivery/public_html/weed/system/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /home/high5delivery/public_html/weed/system/MysqliDb.php(600): MysqliDb->_buildQuery(1)
+#2 /home/high5delivery/public_html/weed/system/MysqliDb.php(625): MysqliDb->get('store', 1, '1')
+#3 /home/high5delivery/public_html/weed/system/MysqliDb.php(747): MysqliDb->getOne('store', '1')
+#4 /home/high5delivery/public_html/weed/store/function/login.php(16): MysqliDb->has('store')
+#5 /home/high5delivery/public_html/weed/store/login.php(4): include('/home/high5deli...')
+#6 {main}
+  thrown in /home/high5delivery/public_html/weed/system/MysqliDb.php on line 1819
